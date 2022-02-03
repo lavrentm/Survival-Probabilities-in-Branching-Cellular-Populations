@@ -1,2 +1,2 @@
-# Survival-Probabilities-on-Branching-Tissue
-Research project of Adam Bryant and Dr. Maxim Lavrentovich of the University of Tennessee, Knoxville department of physics and astronomy
+# Survival-Probabilities-in-Branching-Cellular-Populations
+Data and simulation code, developed by Adam Bryant and Dr. Maxim Lavrentovich of the Department of Physics and Astronomy at the University of Tennessee, Knoxville 
